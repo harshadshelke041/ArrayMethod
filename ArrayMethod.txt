@@ -1,0 +1,30 @@
+
+Push Method ();
+
+ - adds new items to the end of an array.
+
+- changes the length of the array.
+
+- returns the new length.
+
+Pop Method ()
+
+- removes (pops) the last element of an array.
+
+- changes the original array.
+
+- returns the removed element.
+ 
+Shift Method ()
+
+- removes the first item of an array.
+
+- changes the original array.
+
+- returns the shifted element.
+
+Unshift Method ()
+
+- adds new elements to the beginning of an array.
+
+- overwrites the original array.
